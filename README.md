@@ -14,15 +14,15 @@ So in order to solve the above issue I found a Wav2Vec2.0 model being used along
 4) Wav2vec2_0_IEMOCAP.ipynb - Contains code that uses Wav2vec along with training an MLP of two layers. The dataset is uploaded in the drive as IEMOCAP.zip and also two packages data.py and model.py should be used before running this code. They are also uploaded in the drive.
 5) Wav2vec2_0_RAVDESS.ipynb - Contains code that uses Wav2vec along with training an MLP of two layers. The dataset is uploaded in the drive as Data_CNN_ravdess_savee.zip and also two packages data.py and model.py should be used before running this code. They are also uploaded in the drive.
 
-#Updated Directories in the drive with the datasets.
+# Updated Directories in the drive with the datasets.
 
-#In the Datasets and audios folder
+# In the Datasets and audios folder
 1) data (1).csv is renamed to Labelled_data.csv
 
-#In the Ffmpeg conversion and saved embeddings folder
+# In the Ffmpeg conversion and saved embeddings folder
 1) embeddings.zip is stored here.
 
-#PS: All the other datasets are named as it is. The additional datasets are basically the ones for validation and the one's I've created today. 
+# PS: All the other datasets are named as it is. The additional datasets are basically the ones for validation and the one's I've created today. 
 
 
 
